@@ -7,3 +7,4 @@
 __pycache__/
 #hặn các tệp sao lưu tự động của MySQL Workbench để giữ cho kho lưu trữ (repository) sạch sẽ, chỉ chứa các file thiết kế chính thức.
 *.mwb.bak
+
